@@ -1,0 +1,4 @@
+parse arg command
+command "whoami"
+command "ls"
+exit
