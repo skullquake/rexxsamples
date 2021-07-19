@@ -1,0 +1,5 @@
+say f0(1,2)
+exit
+f0:
+parse arg a,b
+return a+b
